@@ -20,16 +20,50 @@ CellRank2 can combine multiple 'views' of single cell datasets in order to recov
 
 * If _not_ using scenic+, identify method from literature review
 
-* Generate mamba environment ready for the hackathon
+* Generate mamba environment ready for the hackathon and install snakemake pipeline
 
 * (assuming scenic+) prepare pycistopic object from existing muon object.
 
-* Query resolution that GRNs reflect - cell level or cell type level?
+* Query resolution that GRNs reflect - cell level or cell type level? Presumably runs on an aggregate of cells - would it be better to use cell annotations/leiden/both?
+
+* Generate cisTarget database
+
+* Generate config (yaml) file
+
+* **Run pipeline a week prior to hackathon**
 
 
 ### During hackathon
 
-* 
+#### Day 1
+
+(Assuming scenic+)
+
+* Review output of scenic+ (having not worked with scenic+ before, I'm not entirely sure what the outputs look like)
+
+* Explore the data, and relate results back to existing retinal research where possible.
+
+* Generate ideas on how to use these results to order cells - can we use regulon scores? 
+
+* Do the results agree with what was identified in Birthe's paper? Compare results from this dataset to the analysis in Birthe's paper.
+
+#### Day 2
+
+* (Fill this in based on plan generated on the previous day)
+
+#### Day 3
+
+* Wrap up any remaining issues from day 2
+
+* Plan (and write, if time allows) documentation relating to the CellRank 2 kernel
+
+### Stretch goals
+
+* _Complete_ documentation
+
+* Perturbation simulation
+
+
 
 
 
