@@ -26,7 +26,9 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * Finalise method selection - presumably scenic+ ✔️
 
-* Generate mamba environment ready for the hackathon and install snakemake pipeline
+* Generate mamba environment ready for the hackathon and install snakemake pipeline ✔️
+
+* Work through basic tutorial
 
 * (assuming scenic+) prepare pycistopic object from existing muon object.
 
