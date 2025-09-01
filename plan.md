@@ -24,9 +24,7 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * Review existing work on CellRank2 kernel
 
-* Finalise method selection - presumably scenic+
-
-* If _not_ using scenic+, identify method from literature review
+* Finalise method selection - presumably scenic+ ✔️
 
 * Generate mamba environment ready for the hackathon and install snakemake pipeline
 
