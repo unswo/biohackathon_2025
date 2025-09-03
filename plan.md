@@ -20,25 +20,25 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 ### Preparation before hackathon 
 
-* Integrate data using scanpy/muon :heavy_check_mark:
+* Integrate data using scanpy/muon ✔️
 
-* Review existing work on CellRank2 kernel
+* Review existing work on CellRank2 kernel ⬜
 
 * Finalise method selection - presumably scenic+ ✔️
 
 * Generate mamba environment ready for the hackathon and install snakemake pipeline ✔️
 
-* Work through basic tutorial
+* Work through basic tutorial ✔️
 
-* (assuming scenic+) prepare pycistopic object from existing muon object.
+* (assuming scenic+) prepare pycistopic object from existing muon object. ⬜
 
-* Query resolution that GRNs reflect - cell level or cell type level? Presumably runs on an aggregate of cells - would it be better to use cell annotations/leiden/both?
+* Query resolution that GRNs reflect - cell level or cell type level? Presumably runs on an aggregate of cells - would it be better to use cell annotations/leiden/both? ◻️
 
-* Generate cisTarget database
+* Generate cisTarget database - tutorial ✔️ - actual data ◻️
 
-* Generate config (yaml) file
+* Generate config (yaml) file ◻️
 
-* **Run pipeline a week prior to hackathon** by 05/09/25
+* **Run pipeline a week prior to hackathon** by 05/09/25 ◻️
 
 
 ### During hackathon
