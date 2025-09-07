@@ -30,7 +30,7 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * Work through basic tutorial ✔️
 
-* (assuming scenic+) prepare pycistopic object from existing muon object. ⬜
+* (assuming scenic+) prepare pycistopic object from existing muon object. ❎ Created from fragments instead.
 
 * Query resolution that GRNs reflect - cell level or cell type level? Presumably runs on an aggregate of cells - would it be better to use cell annotations/leiden/both? ◻️
 
