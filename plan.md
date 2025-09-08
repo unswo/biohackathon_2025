@@ -47,7 +47,7 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 #### Day 1
 
-(Assuming scenic+)
+** NB - will need to rerun with subset data**
 
 * ~Review output of scenic+ (having not worked with scenic+ before, I'm not entirely sure what the outputs look like)~
 
