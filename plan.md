@@ -36,9 +36,11 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * Generate cisTarget database - tutorial ✔️ - actual data ◻️
 
-* Generate config (yaml) file ◻️
+* Generate config (yaml) file ✔️
 
-* **Run pipeline a week prior to hackathon** by 05/09/25 ◻️
+* **Run pipeline a week prior to hackathon** by 05/09/25 ❎
+
+**Kernel keeps crashing with integrated dataset**
 
 
 ### During hackathon
@@ -47,9 +49,11 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 (Assuming scenic+)
 
-* Review output of scenic+ (having not worked with scenic+ before, I'm not entirely sure what the outputs look like)
+* ~Review output of scenic+ (having not worked with scenic+ before, I'm not entirely sure what the outputs look like)~
 
-* Explore the data, and relate results back to existing retinal research where possible.
+* ~Explore the data, and relate results back to existing retinal research where possible.~
+
+* Run the scenicplus pipeline
 
 * Generate ideas on how to use these results to order cells - can we use regulon scores? Sets of enhancers?
 
