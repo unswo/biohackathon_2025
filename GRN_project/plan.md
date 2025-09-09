@@ -30,11 +30,11 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * Work through basic tutorial ✔️
 
-* (assuming scenic+) prepare pycistopic object from existing muon object. ❎ Created from fragments instead.
+* (assuming scenic+) prepare pycistopic object from existing muon object. ❎ Created from fragments instead ✔️
 
 * Query resolution that GRNs reflect - cell level or cell type level? Presumably runs on an aggregate of cells - would it be better to use cell annotations/leiden/both? ◻️
 
-* Generate cisTarget database - tutorial ✔️ - actual data ◻️
+* Generate cisTarget database - tutorial ✔️ - actual data ✔️
 
 * Generate config (yaml) file ✔️
 
@@ -53,15 +53,23 @@ Dorgau, B., Collin, J., Rozanska, A. et al. Single-cell analyses reveal transien
 
 * ~Explore the data, and relate results back to existing retinal research where possible.~
 
-* Run the scenicplus pipeline
+* ~Run the scenicplus pipeline~
 
-* Generate ideas on how to use these results to order cells - can we use regulon scores? Sets of enhancers?
+* ~Generate ideas on how to use these results to order cells - can we use regulon scores? Sets of enhancers?~
 
-* Do the results agree with what was identified in Birthe's paper? Compare results from this dataset to the analysis in Birthe's paper.
+* ~Do the results agree with what was identified in Birthe's paper? Compare results from this dataset to the analysis in Birthe's paper.~
+
+Objects are massive an environment is regularly >300GB - may have to use comet for full dataset.
 
 #### Day 2
 
 * (Fill this in based on plan generated on the previous day)
+
+* **FIXED** atac section ✔️
+
+* Run cistarget db ✔️
+
+Run pipeline?
 
 #### Day 3
 
